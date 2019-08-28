@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name breakout_tssop24)(type KiCad)(uri ${KIPRJMOD}/breakout_tssop24.pretty)(options "")(descr ""))
+)
