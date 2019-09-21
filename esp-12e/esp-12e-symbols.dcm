@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP-12E
+F https://wiki.ai-thinker.com/_media/esp8266/a014ps01.pdf
+$ENDCMP
+#
+#End Doc Library
